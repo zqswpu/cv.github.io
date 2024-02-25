@@ -68,12 +68,13 @@
                     <li>2018.01-2019.06&nbsp;&nbsp;&nbsp;GeoScope软件模块GPU提速开发，成都晶石石油科技有限公司 &nbsp;</li>
                   </ul>
               </div>
-            <div class="item">
+          </div>
+        <div class="item">
               <header class="item-hd">
                 <h2 class="item-name">科研成果：</h2>
               </header>
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>论文</strong></a>
-              <div class="item-bd">
+            <div class="item-bd">
                   <ul class="section-content">
                     <li>Quan Zhang, Ru Bai, Bo Peng, et al. FFT pattern recognition of crystal HRTEM image with deep learning[J]. Micron, 166, 2023. (SCI)&nbsp;</li>
                     <li>Zhang Q, Yawen X U, Zhou J, et al. NEURAL NETWORK-BASED REPAIRING SKULL DEFECTS: AN INITIAL ASSESSMENT OF PERFORMANCE AND FEASIBILITY[J]. Journal of Mechanics in Medicine and Biology, 2021, 21(05). (SCI)&nbsp;</li>
@@ -93,15 +94,15 @@
                     <li>张全，鲍华，饶长辉，彭真明，GPU平台二维快速傅里叶变换算法实现及应用，光电工程，2016，(02)：69~75(CSCD核心)&nbsp;</li>
                     <li>张全，朱珍民，罗海勇，泛在设备互联桥接器设计及实现，计算机工程，2011，(20):230~232( CSCD核心)&nbsp;</li>
                   </ul>
-              </div>
+            </div>
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>发明专利</strong></a>
-              <div class="item-bd">
+            <div class="item-bd">
                   <ul class="section-content">
                     <li>张全，白儒，彭博，周文俊，王一帆. 一种基于深度学习的晶体TEM图像物相区域划分方法 (授权号：ZL 2022 1 1670815.1) &nbsp;</li>
                     <li>张全，赵磊，彭博，周文俊，张伟，涂然. 一种实时吸烟打电话识别方法 (授权号：ZL 2021 1 0207092.0) &nbsp;</li>
                   </ul>
-              </div>
-          </div>
+            </div>
+        </div>
 
 
 
@@ -111,7 +112,7 @@
               <header class="item-hd">
                 <h2 class="item-name">学科竞赛（指导教师）：</h2>
               </header>
-              <div class="item-bd">
+            <div class="item-bd">
                   <ul class="section-content">
                     <li>2023年“神威 国实杯”第七届国产CPU并行应用挑战赛二等奖（张强、李锡涛、杨嘉苓、江国庆） &nbsp;</li>
                     <li>2023年“神威 国实杯”第七届国产CPU并行应用挑战赛三等奖（廖洪樟、周广森、郑云鹤、关忠林） &nbsp;</li>
@@ -121,5 +122,5 @@
                     <li>2019年第十五届“挑战杯”四川省大学生课外学术科技作品竞赛决赛一等奖（靳梓宁、宋雨柯、杨伊帆、卢洪波） &nbsp;</li>
                     <li>2018年“全国大学生计算机设计大赛全国决赛二等奖（李浩杰、靳梓宁、刘放平） &nbsp;</li>
                   </ul>
-              </div>
             </div>
+        </div>
