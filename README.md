@@ -102,9 +102,9 @@
                   </ul>
               </div>
 
-              <div class="item">
+            <div class="item">
               <header class="item-hd">
-                <h2 class="item-name"><strong>学科竞赛（指导教师）：</strong></h2>
+                <h2 class="item-name">学科竞赛（指导教师）：</h2>
               </header>
               <div class="item-bd">
                   <ul class="section-content">
