@@ -20,11 +20,6 @@
 <main class="content">
     <br>
     <header class="content-hd">
-      <section class="title">
-        <div class="name">
-          <h1>张全 博士</h1>
-        </div>
-      </section>
       <section class="info">
         <ul>
           <li>研究方向：图像处理、并行计算、嵌入式系统</li>
