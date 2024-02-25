@@ -24,7 +24,7 @@
               </header>
               <div class="item-bd">
                 <ul class="section-content">
-                  <li>电子科技大学&nbsp&nbsp;｜&nbsp;信号与信息处理 &nbsp;｜&nbsp;博士（2011.9 - 2015.12）</li>
+                  <li>电子科技大学&nbsp;&nbsp;｜&nbsp;信号与信息处理 &nbsp;｜&nbsp;博士（2011.9 - 2015.12）</li>
                   <li>中国科学院光电技术研究所&nbsp;｜ 信号与信息处理 &nbsp;｜&nbsp; 联合培养博士（2011.9 - 2015.12）</li>
                   <li>湘潭大学&nbsp;｜ &nbsp;计算机软件与理论&nbsp;｜&nbsp; 硕士（2008.9 - 2011.7）</li>
                   <li>中国科学院计算技术研究所&nbsp;｜ 嵌入式系统&nbsp;｜&nbsp;联合培养硕士（2009.7 - 2011.7）</li>
