@@ -92,7 +92,7 @@
                     <li>2018.01-2019.06&nbsp;&nbsp;&nbsp;GeoScope软件模块GPU提速开发，成都晶石石油科技有限公司 &nbsp;</li>
                   </ul>
               </div>
-
+            <div class="item">
               <header class="item-hd">
                 <h2 class="item-name">科研成果：</h2>
               </header>
