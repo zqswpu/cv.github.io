@@ -47,8 +47,8 @@
             </div>
             <div class="item">
               <header class="item-hd">
-                <h2 class="item-name">科研：</h2>
-                <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 纵向课题</strong> </a>
+                <h2 class="item-name">科研项目：</h2>
+                <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 纵向</strong> </a>
               </header>
               <div class="item-bd">
                   <ul class="section-content">
@@ -61,7 +61,7 @@
                     <li>2019.01-2021.01&nbsp;&nbsp;&nbsp;医学超声模拟系统研究，2018年度西南石油大学科研“启航计划”自然科学类项目（第一负责） &nbsp;</li>
                   </ul>
               </div>
-                <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 横向课题 </strong> </a>
+                <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 横向 </strong> </a>
               <div class="item-bd">
                   <ul class="section-content">
                     <li>2021.10-2022.06&nbsp;&nbsp;&nbsp;GPU模块技术开发协议，青岛海信医疗设备股份有限公司 &nbsp;</li>
