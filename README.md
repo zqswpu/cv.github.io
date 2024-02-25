@@ -1,22 +1,3 @@
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script type="text/javascript" src="./main.js"></script>
-  <title>张全丨简历</title>
-  <link rel="icon" href="" type="image/x-icon">
-  <link rel="stylesheet" href="main?_inline">
-  <base target="_blank">
-  <style>
-    p{
-      text-indent: 2em;
-      /*margin: 1px auto;*/
-      /*margin-top: 3px;*/
-      /*margin-top: 2px;*/
-      line-height:1.6;
-    }
-  </style>
-</head>
 <main class="content">
     <br>
     <header class="content-hd">
