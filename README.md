@@ -17,7 +17,6 @@
     }
   </style>
 </head>
-
 <main class="content">
     <br>
     <header class="content-hd">
@@ -38,11 +37,8 @@
         </ul>
       </section>
     </header>
-
     <div class="content-bd">
-
       <div class="content-left">
-
         <section class="practice">
           <div class="section-bd">
             <!--经历:教育-->
