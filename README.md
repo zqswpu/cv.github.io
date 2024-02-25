@@ -101,3 +101,38 @@
                     <li>张全，赵磊，彭博，周文俊，张伟，涂然. 一种实时吸烟打电话识别方法 (授权号：ZL 2021 1 0207092.0) &nbsp;</li>
                   </ul>
               </div>
+
+          <div class="item">
+              <header class="item-hd">
+                <h2 class="item-name">教育经历：</h2>
+              </header>
+              <div class="item-bd">
+                <ul class="section-content">
+                  <li>电子科技大学&nbsp&nbsp;｜&nbsp;信号与信息处理 &nbsp;｜&nbsp;博士（2011.9 - 2015.12）</li>
+                  <li>中国科学院光电技术研究所&nbsp;｜ 信号与信息处理 &nbsp;｜&nbsp; 联合培养博士（2011.9 - 2015.12）</li>
+                  <li>湘潭大学&nbsp;｜ &nbsp;计算机软件与理论&nbsp;｜&nbsp; 硕士（2008.9 - 2011.7）</li>
+                  <li>中国科学院计算技术研究所&nbsp;｜ 嵌入式系统&nbsp;｜&nbsp;联合培养硕士（2009.7 - 2011.7）</li>
+                  <li>西南石油大学&nbsp;｜&nbsp;计算机科学与技术&nbsp;｜&nbsp;本科（2003.9 - 2007.7）</li>
+                </ul>
+              </div>
+            </div>
+
+
+
+
+        <div class="item">
+              <header class="item-hd">
+                <h2 class="item-name">学科竞赛（指导教师）：</h2>
+              </header>
+              <div class="item-bd">
+                  <ul class="section-content">
+                    <li>2023年“神威 国实杯”第七届国产CPU并行应用挑战赛二等奖（张强、李锡涛、杨嘉苓、江国庆） &nbsp;</li>
+                    <li>2023年“神威 国实杯”第七届国产CPU并行应用挑战赛三等奖（廖洪樟、周广森、郑云鹤、关忠林） &nbsp;</li>
+                    <li>2022年“神威 国实杯”第六届国产CPU并行应用挑战赛三等奖（周昕航、赵洪杰、高士其、贾俊祥） &nbsp;</li>
+                    <li>2022年（第15届）中国大学生计算机设计大赛全国一等奖（邓平、冉杰、颜宇杰） &nbsp;</li>
+                    <li>2020年“神威”第四届国产CPU并行应用挑战赛唯一金奖（马聪、张鸿宇、蒋讯、涂然） &nbsp;</li>
+                    <li>2019年第十五届“挑战杯”四川省大学生课外学术科技作品竞赛决赛一等奖（靳梓宁、宋雨柯、杨伊帆、卢洪波） &nbsp;</li>
+                    <li>2018年“全国大学生计算机设计大赛全国决赛二等奖（李浩杰、靳梓宁、刘放平） &nbsp;</li>
+                  </ul>
+              </div>
+            </div>
