@@ -101,21 +101,8 @@
                     <li>张全，赵磊，彭博，周文俊，张伟，涂然. 一种实时吸烟打电话识别方法 (授权号：ZL 2021 1 0207092.0) &nbsp;</li>
                   </ul>
               </div>
+          </div>
 
-            <div class="item">
-              <header class="item-hd">
-                <h2 class="item-name">教育经历：</h2>
-              </header>
-              <div class="item-bd">
-                <ul class="section-content">
-                  <li>电子科技大学&nbsp&nbsp;｜&nbsp;信号与信息处理 &nbsp;｜&nbsp;博士（2011.9 - 2015.12）</li>
-                  <li>中国科学院光电技术研究所&nbsp;｜ 信号与信息处理 &nbsp;｜&nbsp; 联合培养博士（2011.9 - 2015.12）</li>
-                  <li>湘潭大学&nbsp;｜ &nbsp;计算机软件与理论&nbsp;｜&nbsp; 硕士（2008.9 - 2011.7）</li>
-                  <li>中国科学院计算技术研究所&nbsp;｜ 嵌入式系统&nbsp;｜&nbsp;联合培养硕士（2009.7 - 2011.7）</li>
-                  <li>西南石油大学&nbsp;｜&nbsp;计算机科学与技术&nbsp;｜&nbsp;本科（2003.9 - 2007.7）</li>
-                </ul>
-              </div>
-            </div>
 
 
 
