@@ -102,6 +102,41 @@
                   </ul>
               </div>
 
+
+          <div class="item">
+              <header class="item-hd">
+                <h2 class="item-name">科研成果：</h2>
+              </header>
+                <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>论文</strong></a>
+              <div class="item-bd">
+                  <ul class="section-content">
+                    <li>Quan Zhang, Ru Bai, Bo Peng, et al. FFT pattern recognition of crystal HRTEM image with deep learning[J]. Micron, 166, 2023. (SCI)&nbsp;</li>
+                    <li>Zhang Q, Yawen X U, Zhou J, et al. NEURAL NETWORK-BASED REPAIRING SKULL DEFECTS: AN INITIAL ASSESSMENT OF PERFORMANCE AND FEASIBILITY[J]. Journal of Mechanics in Medicine and Biology, 2021, 21(05). (SCI)&nbsp;</li>
+                    <li>Lei Zhao, Quan Zhang, Bo Peng, Yangyi Liu, Faster object detector for drone-captured images, J. Electron. Imaging 31(4), 043033 (2022). (SCI，通信作者)<&nbsp;</li>
+                    <li> Lei Zhao, Quan Zhang, Bo Peng, Liang Yang, "Real-time object detector for low-end devices," J. Electron. Imaging 31(1), 013016 (2022). (SCI，通信作者)&nbsp;</li>
+                    <li>Zhang Quan, Bao Hua, Rao Changhui, Redundancy computation analysis and implementation of phase diversity based on GPU, Optical Review ,2015, 22(5): 741-752(SCI)&nbsp;</li>
+                    <li>Zhang Quan, Bao Hua, Rao Changhui, A fast calculation method of optical transfer function using GPU parallel computation, Optical Review, 2015, 22(6): 903-910(SCI)&nbsp;</li>
+                    <li>张全, 雷芩, 林柏栎, 彭博, 刘书妍. 基于贪婪—快速迭代收缩阈值的Radon变换及其在多次波压制中的应用 2022 57 (6):1332-1341 (EI)&nbsp;</li>
+                    <li>张全, 张杰明, 雷芩, 彭博, 刘书妍. 基于CUDA的地震信号频率补偿并行算法[J].石油地球物理勘探, 2022, 57(05): 1241-1249 (EI)&nbsp;</li>
+                    <li>张全，林柏栎，杨勃，彭博，张伟，涂然．CPU-GPU 异构平台的抛物线 Radon 变换并行算法. 石油地球物理勘探，2020, 55(6): 1263-1270 (EI)&nbsp;</li>
+                    <li>Quan Zhang, Hua Bao, Changhui Rao, Zhenming Peng: GPU-based parallel ptimization implement of phase diversity, International Symposium on Optoelectronic Technology and Application 2014: Image Processing and Pattern Recognition,Beijing, P.R. China, 2014 (EI)&nbsp;</li>
+                    <li>张全,张伟,杨先凤等.融合YOLOv5-ResNet级联网络的烟火检测方法[J].安全与环境学报,2023,23(02):397-405(CSCD核心)&nbsp;</li>
+                    <li>张全,王一品,张伟等.地震波能量补偿的并行反Q滤波方法研究[J].西南石油大学学报(自然科学版),2023,45(01):24-32.（CSCD核心）&nbsp;</li>
+                    <li>张全，林柏栎，彭博.基于 CUDA 的地震相干体并行算法[J].地质与勘探,2020,56(1):147-153 (CSCD核心)&nbsp;</li>
+                    <li>陈鹏程, 向伟铭, 张全. 基于CUDA的地震倾角方位角并行算法[J]. 计算机应用, 2019, 39(S2):175-178. (CSCD核心，通信作者)&nbsp;</li>
+                    <li>张全，鲍华，饶长辉，彭真明，相位差算法在多GPU平台上的并行化实现，光电工程，2016，(03)：66~72(CSCD核心)&nbsp;</li>
+                    <li>张全，鲍华，饶长辉，彭真明，GPU平台二维快速傅里叶变换算法实现及应用，光电工程，2016，(02)：69~75(CSCD核心)&nbsp;</li>
+                    <li>张全，朱珍民，罗海勇，泛在设备互联桥接器设计及实现，计算机工程，2011，(20):230~232( CSCD核心)&nbsp;</li>
+                  </ul>
+              </div>
+                <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>发明专利</strong></a>
+              <div class="item-bd">
+                  <ul class="section-content">
+                    <li>张全，白儒，彭博，周文俊，王一帆. 一种基于深度学习的晶体TEM图像物相区域划分方法 (授权号：ZL 2022 1 1670815.1) &nbsp;</li>
+                    <li>张全，赵磊，彭博，周文俊，张伟，涂然. 一种实时吸烟打电话识别方法 (授权号：ZL 2021 1 0207092.0) &nbsp;</li>
+                  </ul>
+              </div>
+
             <div class="item">
               <header class="item-hd">
                 <h2 class="item-name">学科竞赛（指导教师）：</h2>
