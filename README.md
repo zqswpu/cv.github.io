@@ -102,7 +102,7 @@
                   </ul>
               </div>
 
-          <div class="item">
+            <div class="item">
               <header class="item-hd">
                 <h2 class="item-name">教育经历：</h2>
               </header>
