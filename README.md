@@ -53,7 +53,7 @@
               <div class="item-bd">
                   <ul class="section-content">
                   <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;面向交通卡口违法车辆视觉感知关键技术研究，智能警务四川省重点实验室2024年度开放课题（第一负责） &nbsp;</li>
-                    <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;2023年地震多次被高效压制与深度学习集成研究，南充市-西南石油大学市校科技战略合作项目（第二负责） &nbsp;</li>
+                    <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;地震多次被高效压制与深度学习集成研究，南充市-西南石油大学市校科技战略合作项目（第二负责） &nbsp;</li>
                     <li>2023.01-2024.12&nbsp;&nbsp;&nbsp;城市场景监控视频行为分析方法研究，智能警务四川省重点实验室2023年度开放课题（第二负责） &nbsp;</li>
                     <li>2022.10-2024.10&nbsp;&nbsp;&nbsp;石油钻井环境异常工况智能识别技术研究，油气藏地质及开发工程国家重点实验室2022年开放基金课题（第一负责） &nbsp;</li>
                     <li>2021.09-2023.09&nbsp;&nbsp;&nbsp;基于高性能计算与卷积神经网络的地震多次波压制方法研究，油气藏地质及开发工程国家重点实验室2021年开放基金课题 （第二负责）&nbsp;</li>
@@ -78,7 +78,7 @@
                   <ul class="section-content">
                     <li>Quan Zhang, Ru Bai, Bo Peng, et al. FFT pattern recognition of crystal HRTEM image with deep learning[J]. Micron, 166, 2023. (SCI)&nbsp;</li>
                     <li>Zhang Q, Yawen X U, Zhou J, et al. NEURAL NETWORK-BASED REPAIRING SKULL DEFECTS: AN INITIAL ASSESSMENT OF PERFORMANCE AND FEASIBILITY[J]. Journal of Mechanics in Medicine and Biology, 2021, 21(05). (SCI)&nbsp;</li>
-                    <li>Lei Zhao, Quan Zhang, Bo Peng, Yangyi Liu, Faster object detector for drone-captured images, J. Electron. Imaging 31(4), 043033 (2022). (SCI，通信作者)<&nbsp;</li>
+                    <li>Lei Zhao, Quan Zhang, Bo Peng, Yangyi Liu, Faster object detector for drone-captured images, J. Electron. Imaging 31(4), 043033 (2022). (SCI，通信作者)&nbsp;</li>
                     <li> Lei Zhao, Quan Zhang, Bo Peng, Liang Yang, "Real-time object detector for low-end devices," J. Electron. Imaging 31(1), 013016 (2022). (SCI，通信作者)&nbsp;</li>
                     <li>Zhang Quan, Bao Hua, Rao Changhui, Redundancy computation analysis and implementation of phase diversity based on GPU, Optical Review ,2015, 22(5): 741-752(SCI)&nbsp;</li>
                     <li>Zhang Quan, Bao Hua, Rao Changhui, A fast calculation method of optical transfer function using GPU parallel computation, Optical Review, 2015, 22(6): 903-910(SCI)&nbsp;</li>
